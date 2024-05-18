@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Electricity Usage Calculator</string>
+    <string name="total_charge_label">Total Charge:</string>
+    <string name="final_cost_label">Final Cost after rebate:</string>
+    <string name="units_hint">Enter units used (kWh)</string>
+    <string name="rebate_hint">Enter rebate percentage (0%-5%)</string>
+    <string name="calculate_button_label">Calculate</string>
+</resources>
