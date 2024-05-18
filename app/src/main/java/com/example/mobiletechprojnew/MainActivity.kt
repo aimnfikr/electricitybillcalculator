@@ -241,7 +241,7 @@ fun AboutPage() {
             style = MaterialTheme.typography.bodyLarge,
             textAlign = TextAlign.Center
         )
-        OpenUrl("https://github.com/users/aimnfikr/projects/1")
+        OpenUrl("https://github.com/aimnfikr/electricitybillcalculator/tree/master")
     }
 }
 
